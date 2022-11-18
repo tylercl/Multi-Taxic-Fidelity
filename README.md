@@ -1,9 +1,9 @@
 # Multi-Taxic-Fidelity
 Abundance data from live-dead surveys of marine invertebrates of North Carolina
 
-Data associated with: The quality of the fossil record across higher taxa: compositional fidelity of phyla and classes in benthic marine associations
+Data associated with: The quality of the fossil record across higher taxa: compositional fidelity of phyla and classes in benthic marine associations\\
 
-Authors: Carrie L. Tyler[1] and Michal Kowalewski[2]
+Authors: Carrie L. Tyler[1] and Michal Kowalewski[2]\\
 
 [1] Department of Geoscience, University of Nevada, Las Vegas, Nevada, 89154, USA, carrie.tyler@unlv.edu
 
@@ -15,7 +15,7 @@ The data format for each file is as follows:
 
 **Localities.csv** (Locality numbers correspond to the first column in the abundance data matrices)
 
-Column 1: Sample Collection Dates
+Column 1: Sample Collection Dates\\
 Column 2: Locality Number
 Column 3: Sample Number
 Column 4: Type of Dredge Equipment Deployed
